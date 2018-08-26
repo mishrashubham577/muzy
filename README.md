@@ -30,3 +30,12 @@ Wanna Enjoy my playlist:
 
 #### username  : mishub
 #### password  : mishub
+
+## Get in touch via my creative django blog
+
+link: https://github.com/mishub/creative_blog
+
+#### here you can find my creative resume too.
+
+
+# Thanks
