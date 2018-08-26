@@ -1,4 +1,4 @@
-![]("https://i.imgur.com/GPzlaqM.png")
+![](https://i.imgur.com/GPzlaqM.png)
 
 # What is Muzy?
 
