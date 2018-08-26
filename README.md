@@ -26,7 +26,7 @@ You can also search for music using the search feature at the top of every page.
 
 ## Quick-Start 
 
-Wanna Enjoy my plalist:
+Wanna Enjoy my playlist:
 
 #### username  : mishub
 #### password  : mishub
